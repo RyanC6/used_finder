@@ -1,0 +1,6 @@
+config.py
+*.html
+*.ipynb
+.ipynb_checkpoints
+__pycache__
+lens_finder
